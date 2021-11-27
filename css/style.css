@@ -1,0 +1,8 @@
+header {
+  background-color: black;
+}
+.menu {
+  display: inline;
+  list-style: none; /* pour enlever les puces sur IE7 */
+  margin: 10px;
+}
